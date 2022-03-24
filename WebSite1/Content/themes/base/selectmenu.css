@@ -14,7 +14,8 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	display: none;
+	display: none; 
+    background-color: hotpink;
 }
 .ui-selectmenu-menu .ui-menu {
 	overflow: auto;

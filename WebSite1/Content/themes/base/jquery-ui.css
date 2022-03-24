@@ -10,14 +10,15 @@
 	display: none;
 }
 .ui-helper-hidden-accessible {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: 1px;
-	margin: -1px;
-	overflow: hidden;
-	padding: 0;
-	position: absolute;
-	width: 1px;
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    background-color: hotpink;
 }
 .ui-helper-reset {
 	margin: 0;
@@ -143,7 +144,8 @@
 
 /* icon support */
 .ui-menu-icons {
-	position: relative;
+    position: relative;
+    background-color: hotpink;
 }
 .ui-menu-icons .ui-menu-item-wrapper {
 	padding-left: 2em;

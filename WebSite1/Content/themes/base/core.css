@@ -23,6 +23,7 @@
 	padding: 0;
 	position: absolute;
 	width: 1px;
+    background: #ff0000;
 }
 .ui-helper-reset {
 	margin: 0;
@@ -41,10 +42,12 @@
 	border-collapse: collapse;
 }
 .ui-helper-clearfix:after {
-	clear: both;
+    clear: both;
+    background: #ff0000;
 }
 .ui-helper-clearfix {
-	min-height: 0; /* support: IE7 */
+    min-height: 0; /* support: IE7 */
+    background: #ff0000;
 }
 .ui-helper-zfix {
 	width: 100%;
@@ -73,10 +76,11 @@
 
 /* states and images */
 .ui-icon {
-	display: block;
-	text-indent: -99999px;
-	overflow: hidden;
-	background-repeat: no-repeat;
+    display: block;
+    text-indent: -99999px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background: #ff0000;
 }
 
 
@@ -85,9 +89,10 @@
 
 /* Overlays */
 .ui-widget-overlay {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: hotpink;
 }

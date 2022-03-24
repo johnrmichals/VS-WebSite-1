@@ -17,6 +17,7 @@
 	cursor: pointer;
 	vertical-align: middle;
 	text-align: center;
+    color: deeppink;
 	overflow: visible; /* removes extra width in IE */
 }
 .ui-button,

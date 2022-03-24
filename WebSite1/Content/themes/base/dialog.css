@@ -9,12 +9,13 @@
  * http://api.jqueryui.com/dialog/#theming
  */
 .ui-dialog {
-	overflow: hidden;
-	position: absolute;
-	top: 0;
-	left: 0;
-	padding: .2em;
-	outline: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: .2em;
+    outline: 0;
+    background-color: hotpink;
 }
 .ui-dialog .ui-dialog-titlebar {
 	padding: .4em 1em;

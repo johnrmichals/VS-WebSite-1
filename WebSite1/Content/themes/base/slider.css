@@ -9,8 +9,9 @@
  * http://api.jqueryui.com/slider/#theming
  */
 .ui-slider {
-	position: relative;
-	text-align: left;
+    position: relative;
+    text-align: left;
+    background-color: hotpink;
 }
 .ui-slider .ui-slider-handle {
 	position: absolute;
